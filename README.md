@@ -1,4 +1,6 @@
 # Covid-19_Model
+A Matlab code based on the SIR Method( superiority and inferiority ranking method ) to predict COVID19 Rates
+
 The superiority and inferiority ranking method (or SIR method) is a multi-criteria decision making model (MCDA) which can handle real data and provides six different preference structures for the system user.
  
 MCDM is a sub-discipline of operations research that explicitly evaluates multiple conflicting criteria in decision making, both in daily life and in settings such as business, government and medicine.
